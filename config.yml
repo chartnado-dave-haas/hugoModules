@@ -1,7 +1,0 @@
-module:
-  mounts:
-    - source: assets
-      target: assets
-
-params:
-  version:    "1.0"
